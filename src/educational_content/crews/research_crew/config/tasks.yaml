@@ -1,0 +1,6 @@
+conduct_research:
+  description: >
+    Conduct research on advanced unsupervised machine learning developments using Serper.
+  expected_output: >
+    A comprehensive report summarizing the latest advancements in unsupervised machine learning.
+  agent: web_researcher
